@@ -7,9 +7,13 @@
 
 menu{
     background-color: black;
-    
+
 }
 li{
     list-style: none;
     color: white;
+}
+li:hover{
+    color:red;
+    cursor: pointer;
 }
